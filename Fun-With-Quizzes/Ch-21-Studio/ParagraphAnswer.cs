@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Ch_21_Studio
 {
-    class ParagraphAnswer : QuestionNS
+    class ParagraphAnswer : Question
     {
         public ParagraphAnswer(string question)
             : base(question)
         {
-            Question = question;
+            QuestionBody = question;
         }
     }
 }

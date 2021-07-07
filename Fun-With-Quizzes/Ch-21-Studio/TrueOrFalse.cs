@@ -6,16 +6,23 @@ using System.Threading.Tasks;
 
 namespace Ch_21_Studio
 {
-    class TrueOrFalse : QuestionNS
+    class TrueOrFalse : Question
     {
         public bool CorrectAnswer { get; set; }
         public TrueOrFalse(string question, bool answer)
             : base(question)
         {
             CorrectAnswer = answer;
+            PromptUserInput();
         }
         // "T/F: Rae is pretty.", true
         // "T/F: Prof. Cornelius is a cat.", false
+
+        public override string PromptUserInput()
+        {
+            Console.WriteLine(QuestionBody);
+            return base.PromptUserInput();
+        }
 
         public override bool VerifyUserAnswer()
         {
@@ -27,7 +34,7 @@ namespace Ch_21_Studio
             {
                 AnswerIsCorrect = false;
             }
-            return base.VerifyUserAnswer();
+            return base.AnswerIsCorrect;
         }
     }
 }

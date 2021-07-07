@@ -6,31 +6,27 @@ using System.Threading.Tasks;
 
 namespace Ch_21_Studio
 {
-    class MultipleChoice : QuestionNS
+    class MultipleChoice : Question
     {
-        public char CorrectAnswer { get; set; }
+        public string CorrectAnswer { get; set; }
         public string[] PossibleAnswers { get; set; }
 
-        public MultipleChoice(string question, char answer)
-            : base(question)
-        {
-            CorrectAnswer = answer;
-        }
-
-        public MultipleChoice(string question, string[] possibleAnswers, char answer)
+        public MultipleChoice(string question, string[] possibleAnswers, string answer)
             : base(question)
         {
             PossibleAnswers = possibleAnswers;
             CorrectAnswer = answer;
+            PromptUserInput();
         }
 
         public override string PromptUserInput()
         {
-            //Console.WriteLine(PossibleAnswers);
+            Console.WriteLine(QuestionBody);
             for (int i = 0; i < PossibleAnswers.Length; i++)
             {
                 Console.WriteLine(PossibleAnswers[i]);
             }
+
             return base.PromptUserInput();
         }
 
@@ -38,7 +34,7 @@ namespace Ch_21_Studio
         {
             if (UserAnswer.Length == 1)
             {
-                if (UserAnswer.Contains(CorrectAnswer))
+                if (UserAnswer.Equals(CorrectAnswer))
                 {
                     AnswerIsCorrect = true;
                 }
@@ -49,10 +45,11 @@ namespace Ch_21_Studio
             }
             else
             {
-                Console.WriteLine("Please enter a, b, c, or d.");
-                VerifyUserAnswer();
+                Console.WriteLine("Please enter a, b, c, or d.\n");
+                PromptUserInput();
             }
-            return base.VerifyUserAnswer();
+
+            return AnswerIsCorrect;
         }
 
         // What is Rae's favorite flavor of ice cream?

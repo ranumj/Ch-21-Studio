@@ -11,7 +11,7 @@ namespace Ch_21_Studio
         public ShortAnswer(string question)
             : base(question)
         {
-            Question = question;
+            QuestionBody = question;
         }
     }
 }

@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace Ch_21_Studio
 {
-    class Checkbox : QuestionNS
+    class Checkbox : Question
     {
         public Checkbox(string question)
             : base(question)
         {
-            Question = question;
+            QuestionBody = question;
         }
     }
 }

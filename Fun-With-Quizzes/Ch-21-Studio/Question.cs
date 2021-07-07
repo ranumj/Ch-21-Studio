@@ -6,23 +6,31 @@ using System.Threading.Tasks;
 
 namespace Ch_21_Studio
 {
-    public abstract class QuestionNS
+    public abstract class Question
     {
         public int QuestionNumber { get; set; }
-        public string Question { get; set; }
+        public string QuestionBody { get; set; }
         public string UserAnswer { get; set; }
         public bool AnswerIsCorrect { get; set; }
-        
-        public QuestionNS(string question)
+
+
+        public Question(string question)
         {
-            Question = question;
+            QuestionBody = question;
         }
 
         public virtual string PromptUserInput()
         {
-            Console.WriteLine(Question);
             UserAnswer = Console.ReadLine();
-            this.VerifyUserAnswer();
+            VerifyUserAnswer();
+            if (VerifyUserAnswer())
+            {
+                Console.WriteLine("Correct!\n");
+            }
+            else
+            {
+                Console.WriteLine("Incorrect.\n");
+            }
             return UserAnswer;
         }
 
@@ -30,11 +38,11 @@ namespace Ch_21_Studio
         {
             if (AnswerIsCorrect)
             {
-                Console.WriteLine("Correct!");
+                AnswerIsCorrect = true;
             }
             else
             {
-                Console.WriteLine("Incorrect.");
+                AnswerIsCorrect = false;
             }
             return AnswerIsCorrect;
         }
