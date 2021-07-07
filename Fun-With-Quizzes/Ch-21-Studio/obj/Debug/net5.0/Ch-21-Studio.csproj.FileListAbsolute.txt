@@ -1,0 +1,16 @@
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.csproj.AssemblyReference.cache
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.AssemblyInfoInputs.cache
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.AssemblyInfo.cs
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.csproj.CoreCompileInputs.cache
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\bin\Debug\net5.0\Ch-21-Studio.exe
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\bin\Debug\net5.0\Ch-21-Studio.deps.json
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\bin\Debug\net5.0\Ch-21-Studio.runtimeconfig.json
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\bin\Debug\net5.0\Ch-21-Studio.runtimeconfig.dev.json
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\bin\Debug\net5.0\Ch-21-Studio.dll
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\bin\Debug\net5.0\ref\Ch-21-Studio.dll
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\bin\Debug\net5.0\Ch-21-Studio.pdb
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.dll
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\ref\Ch-21-Studio.dll
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.pdb
+C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.genruntimeconfig.cache

@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Ch_21_Studio
 {
-    class Checkbox : QuestionNS
+    class ParagraphAnswer : QuestionNS
     {
-        public Checkbox(string question)
+        public ParagraphAnswer(string question)
             : base(question)
         {
             Question = question;
