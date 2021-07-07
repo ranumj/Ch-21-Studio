@@ -8,10 +8,51 @@ namespace Ch_21_Studio
 {
     class MultipleChoice : QuestionNS
     {
-        public MultipleChoice(string question)
+        public char CorrectAnswer { get; set; }
+        public string[] PossibleAnswers { get; set; }
+
+        public MultipleChoice(string question, char answer)
             : base(question)
         {
+            CorrectAnswer = answer;
+        }
 
+        public MultipleChoice(string question, string[] possibleAnswers, char answer)
+            : base(question)
+        {
+            PossibleAnswers = possibleAnswers;
+            CorrectAnswer = answer;
+        }
+
+        public override string PromptUserInput()
+        {
+            //Console.WriteLine(PossibleAnswers);
+            for (int i = 0; i < PossibleAnswers.Length; i++)
+            {
+                Console.WriteLine(PossibleAnswers[i]);
+            }
+            return base.PromptUserInput();
+        }
+
+        public override bool VerifyUserAnswer()
+        {
+            if (UserAnswer.Length == 1)
+            {
+                if (UserAnswer.Contains(CorrectAnswer))
+                {
+                    AnswerIsCorrect = true;
+                }
+                else
+                {
+                    AnswerIsCorrect = false;
+                }
+            }
+            else
+            {
+                Console.WriteLine("Please enter a, b, c, or d.");
+                VerifyUserAnswer();
+            }
+            return base.VerifyUserAnswer();
         }
 
         // What is Rae's favorite flavor of ice cream?

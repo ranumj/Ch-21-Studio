@@ -28,7 +28,14 @@ namespace Ch_21_Studio
 
         public virtual bool VerifyUserAnswer()
         {
-            Console.WriteLine($"Was your answer correct? {AnswerIsCorrect}");
+            if (AnswerIsCorrect)
+            {
+                Console.WriteLine("Correct!");
+            }
+            else
+            {
+                Console.WriteLine("Incorrect.");
+            }
             return AnswerIsCorrect;
         }
     }
