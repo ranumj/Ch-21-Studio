@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\raech\\source\\repos\\Chapter-21\\Ch-21-Studio\\Fun-With-Quizzes\\Ch-21-Studio\\Ch-21-Studio.csproj": {}
+    "E:\\C# Projects\\Ch-21\\Ch-21-Studio\\Fun-With-Quizzes\\Ch-21-Studio\\Ch-21-Studio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\raech\\source\\repos\\Chapter-21\\Ch-21-Studio\\Fun-With-Quizzes\\Ch-21-Studio\\Ch-21-Studio.csproj": {
+    "E:\\C# Projects\\Ch-21\\Ch-21-Studio\\Fun-With-Quizzes\\Ch-21-Studio\\Ch-21-Studio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\raech\\source\\repos\\Chapter-21\\Ch-21-Studio\\Fun-With-Quizzes\\Ch-21-Studio\\Ch-21-Studio.csproj",
+        "projectUniqueName": "E:\\C# Projects\\Ch-21\\Ch-21-Studio\\Fun-With-Quizzes\\Ch-21-Studio\\Ch-21-Studio.csproj",
         "projectName": "Ch-21-Studio",
-        "projectPath": "C:\\Users\\raech\\source\\repos\\Chapter-21\\Ch-21-Studio\\Fun-With-Quizzes\\Ch-21-Studio\\Ch-21-Studio.csproj",
-        "packagesPath": "C:\\Users\\raech\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\raech\\source\\repos\\Chapter-21\\Ch-21-Studio\\Fun-With-Quizzes\\Ch-21-Studio\\obj\\",
+        "projectPath": "E:\\C# Projects\\Ch-21\\Ch-21-Studio\\Fun-With-Quizzes\\Ch-21-Studio\\Ch-21-Studio.csproj",
+        "packagesPath": "C:\\Users\\Julian's Rig\\.nuget\\packages\\",
+        "outputPath": "E:\\C# Projects\\Ch-21\\Ch-21-Studio\\Fun-With-Quizzes\\Ch-21-Studio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\raech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Julian's Rig\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

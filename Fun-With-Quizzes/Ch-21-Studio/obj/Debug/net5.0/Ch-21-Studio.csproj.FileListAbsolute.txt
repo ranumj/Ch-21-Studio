@@ -14,3 +14,19 @@ C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studi
 C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\ref\Ch-21-Studio.dll
 C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.pdb
 C:\Users\raech\source\repos\Chapter-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.genruntimeconfig.cache
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\bin\Debug\net5.0\Ch-21-Studio.exe
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\bin\Debug\net5.0\Ch-21-Studio.deps.json
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\bin\Debug\net5.0\Ch-21-Studio.runtimeconfig.json
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\bin\Debug\net5.0\Ch-21-Studio.runtimeconfig.dev.json
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\bin\Debug\net5.0\Ch-21-Studio.dll
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\bin\Debug\net5.0\ref\Ch-21-Studio.dll
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\bin\Debug\net5.0\Ch-21-Studio.pdb
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.csproj.AssemblyReference.cache
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.AssemblyInfoInputs.cache
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.AssemblyInfo.cs
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.csproj.CoreCompileInputs.cache
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.dll
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\ref\Ch-21-Studio.dll
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.pdb
+E:\C# Projects\Ch-21\Ch-21-Studio\Fun-With-Quizzes\Ch-21-Studio\obj\Debug\net5.0\Ch-21-Studio.genruntimeconfig.cache
